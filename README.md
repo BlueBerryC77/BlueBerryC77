@@ -4,6 +4,9 @@
 </p>
 ---
 
+<img src="https://capoo.club/assets/separador_cute.svg" alt="separador" width="100%" />
+
+
 
 ![snake gif](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
 
