@@ -1,8 +1,7 @@
 <!-- Encabezado animado estilo cute-elegante -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Sahian+%F0%9F%92%95;Apasionada+por+la+tecnolog%C3%ADa+y+la+automatizaci%C3%B3n;Bienvenida+a+mi+universo+dev+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Sahian+%F0%9F%92%95;" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 💫 Sobre mí
