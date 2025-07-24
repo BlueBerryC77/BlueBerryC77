@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Sahian+%F0%9F%92%95;" alt="Typing SVG" />
 </p>
----
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&pause=1000&color=C85CF7&background=FFFFFF00&width=435&lines=Movie+Reviews+application)](https://git.io/typing-svg)
 
 ## 💫 Sobre mí
