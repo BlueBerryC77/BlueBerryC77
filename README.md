@@ -4,6 +4,10 @@
 </p>
 ---
 
+
+![snake gif](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 💫 Sobre mí
 
 ✨ Estudiante universitaria con enfoque en automatización, tecnología y creatividad.  
