@@ -41,4 +41,6 @@
 >
 > ![Nearbeats](https://github.com/user-attachments/assets/0dbb3a35-efc4-4b25-baa0-7d7094e38943)
 ![Nearbeats (1)](https://github.com/user-attachments/assets/1d9fcf58-36b3-4a48-8dc6-394d8198fb7b)
+![Nearbeats (1200 x 400 px)](https://github.com/user-attachments/assets/a87020ca-50f6-486d-a688-d4ed957d849b)
+
 
