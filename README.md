@@ -38,3 +38,6 @@
 ---
 
 > *“No se trata solo de programar… también es crear con intención y estilo 💕”*
+>
+> ![Nearbeats](https://github.com/user-attachments/assets/0dbb3a35-efc4-4b25-baa0-7d7094e38943)
+
